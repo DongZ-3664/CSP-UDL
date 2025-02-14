@@ -4,7 +4,7 @@ This repository contains the executable procedures and datasets related to our p
 
 For detailed instructions on how to use our procedures, please refer to the document "Instruction.pdf".
 
-If you have any questions or encounter issues, feel free to contact us via the authors' email addresses provided in the paper.
+If you have any questions or encounter issues, feel free to contact us via the authors' email DongZ_3664@mail.nwpu.edu.cn.
 We are more than happy to assist you!
 
 
