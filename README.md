@@ -48,7 +48,7 @@ The `Results` folder contains concise outcomes of the algorithm, while the `ALNS
 Users can also navigate to the ‘~/bin’ directory to directly execute our precompiled procedures. 
 The command for running these procedures is the same as described above.
 For more comprehensive guidance, please refer to the document ‘instruction.pdf’, where we provide a detailed instruction on how to quickly get started with our procedures.
-Additionally, it includes some further information on the file formats for test instances, results, and logs, offering a clearer explanation of our program.
+Additionally, it includes some further information on the file formats for instances, results, and logs, offering a clearer explanation of our program.
 
 
 
