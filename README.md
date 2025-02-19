@@ -41,7 +41,7 @@ For example,  if you want to utilize the T-ALNS algorithm to solve an instance w
 
 ### Step 6  
 [Outcome] Upon completion of the procedure, two folders, named as `Results` and `ALNSLogFile`, will be automatically created in the main directory.
-The `Results` folder contains concise outcomes, while the `ALNSLogFile` folder provides detailed solution logs for further analysis.
+The `Results` folder contains concise outcomes of the algorithm, while the `ALNSLogFile` folder is used to store the detailed solution logs for further analysis.
 
 
 ## CSP-UDL
