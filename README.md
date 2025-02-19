@@ -9,6 +9,7 @@ To facilitate compilation, a `MakeFile` is provided in the `build` folder, enabl
 For more convenience, we have precompiled all executable procedures (the developed MILP models and heuristics) and placed them in the `bin` folder, allowing users to start quickly without additional steps.
 
 ##Compile and start
+
 Below, we provide a step-by-step guide for compiling and executing the procedures (for Linux users).
 
 ### Step 1  
@@ -45,6 +46,7 @@ For example,  if you want to utilize the T-ALNS algorithm to solve an instance w
 The `Results` folder contains concise outcomes of the algorithm, while the `ALNSLogFile` folder is used to store the detailed solution logs for further analysis.
 
 ##Quickly start
+
 Users can also navigate to the ‘~/bin’ directory to directly execute our precompiled procedures. 
 The command for running these procedures is the same as described above.
 For more comprehensive guidance, please refer to the document ‘instruction.pdf’, where we provide a detailed instruction on how to quickly get started with our procedures.
