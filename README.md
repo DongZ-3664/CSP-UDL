@@ -6,7 +6,7 @@ This repository contains the procedures and test instances related to our paper 
 The repository is organized into four folders and two zip archives.
 The `include` folder includes all header files, while the `src` folder contains the source files for the developed heuristics (the T-ALNS algorithm and the matheuristic).
 To facilitate compilation, a `MakeFile` is provided in the `build` folder, enabling users to compile our codes independently.
-For more convenience, we have precompiled all executable procedures (the developed MILP models and heuristics) and placed them in the `bin` folder, allowing users to start quickly without additional steps.
+For more convenience, we have precompiled all executable procedures (the developed MILP models and heuristics) and placed them in the `bin` folder, allowing users to get started quickly without additional steps.
 
 ## Steps to Compile and Run
 
