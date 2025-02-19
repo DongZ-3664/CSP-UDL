@@ -8,6 +8,7 @@ The `include` folder includes all header files, while the `src` folder contains 
 To facilitate compilation, a `MakeFile` is provided in the `build` folder, enabling users to compile our codes independently.
 For more convenience, we have precompiled all executable procedures (the developed MILP models and heuristics) and placed them in the `bin` folder, allowing users to start quickly without additional steps.
 
+##Compile and start
 Below, we provide a step-by-step guide for compiling and executing the procedures (for Linux users).
 
 ### Step 1  
@@ -33,7 +34,7 @@ The 3rd and 4th arguments represent the crane speed factors.
 The 5th argument is the number of tasks.  
 The 6th argument specifies the storage path of the `instances` folder.  
 
-For example,  if you want to utilize the T-ALNS algorithm to solve an instance with $N=30, (\psi_L, \psi_M, \psi_S) = (1, 1, 2), \tau_{\alpha\beta}' = 1.4 \tau_{\alpha\beta}$, and $\tau_{\alpha\beta}'' = 2.0 \tau_{\alpha\beta}$, you should enter the following command in the command line and press 'Enter' to execute:
+For example,  if you want to utilize the T-ALNS algorithm to solve an instance with the setting of $N=30, (\psi_L, \psi_M, \psi_S) = (1, 1, 2), \tau_{\alpha\beta}' = 1.4 \tau_{\alpha\beta}$, and $\tau_{\alpha\beta}'' = 2.0 \tau_{\alpha\beta}$, you should enter the following command in the command line and press 'Enter' to strat:
 
 ```bash
 ./ALNS_Medium.a 1 2 1.4 2.0 30 ../instances
@@ -43,17 +44,11 @@ For example,  if you want to utilize the T-ALNS algorithm to solve an instance w
 [Outcome] Upon completion of the procedure, two folders, named as `Results` and `ALNSLogFile`, will be automatically created in the main directory.
 The `Results` folder contains concise outcomes of the algorithm, while the `ALNSLogFile` folder is used to store the detailed solution logs for further analysis.
 
-
-## CSP-UDL
-Welcome to the GitHub repository for our research project!
-This repository contains the executable procedures and datasets related to our paper, “Mathematical Models and Heuristics for Double-Load Crane Scheduling in Slab Yards”.
-
-For detailed instructions on how to use our procedures, please refer to the document "Instruction.pdf".
-
-If you have any questions or encounter issues, feel free to contact us via the authors' email DongZ_3664@mail.nwpu.edu.cn.
-We are more than happy to assist you!
-
-
+##Quickly start
+Users can also navigate to the ‘~/bin’ directory to directly execute our precompiled procedures. 
+The command for running these procedures is the same as described above.
+For more comprehensive guidance, please refer to the document ‘instruction.pdf’, where we provide a detailed instruction on how to quickly get started with our procedures.
+Additionally, it includes some further information on the file formats for test instances, results, and logs, offering a clearer explanation of our program.
 
 
 
