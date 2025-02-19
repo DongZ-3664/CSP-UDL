@@ -8,7 +8,7 @@ The `include` folder includes all header files, while the `src` folder contains 
 To facilitate compilation, a `MakeFile` is provided in the `build` folder, enabling users to compile our codes independently.
 For more convenience, we have precompiled all executable procedures (the developed MILP models and heuristics) and placed them in the `bin` folder, allowing users to start quickly without additional steps.
 
-## Compile and start
+## Steps to Compile and Run
 
 Below, we provide a step-by-step guide for compiling and executing the procedures (for Linux users).
 
@@ -45,7 +45,7 @@ For example,  if you want to utilize the T-ALNS algorithm to solve an instance w
 [Outcome] Upon completion of the procedure, two folders, named as `Results` and `ALNSLogFile`, will be automatically created in the main directory.
 The `Results` folder contains concise outcomes of the algorithm, while the `ALNSLogFile` folder is used to store the detailed solution logs for further analysis.
 
-## Quickly start
+## Quick Start: Running Precompiled Procedures
 
 Users can also navigate to the ‘~/bin’ directory to directly execute our precompiled procedures. 
 The command for running these procedures is the same as described above.
