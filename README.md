@@ -55,7 +55,7 @@ Additionally, it includes some further information on the file formats for insta
 
 ## Statement
 
-If you encounter any issues or have questions regarding our procedures, please feel free to reach out to us at Dong_Z3664@mail.nwpu.edu.cn.
+If you encounter any issues or have questions regarding our procedures, please feel free to contact us via Dong_Z3664@mail.nwpu.edu.cn.
 
 
 
