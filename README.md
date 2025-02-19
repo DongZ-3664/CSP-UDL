@@ -53,4 +53,9 @@ For more comprehensive guidance, please refer to the document ‘instruction.pdf
 Additionally, it includes some further information on the file formats for instances, results, and logs, offering a clearer explanation of our program.
 
 
+## Statement
+
+If you encounter any issues or have questions regarding our procedures, please feel free to reach out to us at Dong_Z3664@mail.nwpu.edu.cn.
+
+
 
